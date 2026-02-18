@@ -25,7 +25,7 @@
 /* 类型标签样式 */
 .billOverview.large .type {
   font-size: var(--font-size-sm);
-  color: var(--color-text-tertiary);
+  color: white;
 }
 
 /* 颜色控制 */
