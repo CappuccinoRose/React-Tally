@@ -1,0 +1,46 @@
+.year-summary-card {
+  margin: var(--spacing-lg);
+  padding: var(--spacing-lg);
+  background: var(--color-bg-button);
+  border-radius: var(--radius-lg);
+  color: white;
+  box-shadow: 0 0.04rem 0.12rem rgba(102, 126, 234, 0.3);
+}
+
+.summary-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+}
+
+.summary-label {
+  opacity: 0.8;
+  font-size: var(--font-size-base);
+}
+
+.summary-value {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+}
+
+.summary-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: var(--spacing-sm);
+}
+
+.balance-label {
+  font-size: var(--font-size-sm);
+  opacity: 0.9;
+}
+
+.balance-amount {
+  font-size: var(--font-size-xxl);
+  font-weight: var(--font-weight-bold);
+}
+
+.balance-amount.negative {
+  color: #ffd1d1;
+}

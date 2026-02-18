@@ -1,0 +1,2594 @@
+{
+  "ka": [
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2025-01-01 07:34:17",
+      "useFor": "transportation",
+      "id": 1
+    },
+    {
+      "type": "pay",
+      "money": -165,
+      "date": "2025-01-02 10:42:58",
+      "useFor": "travel",
+      "id": 2
+    },
+    {
+      "type": "pay",
+      "money": -43,
+      "date": "2025-01-03 02:37:24",
+      "useFor": "transportation",
+      "id": 3
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2025-01-04 19:48:31",
+      "useFor": "drinks",
+      "id": 4
+    },
+    {
+      "type": "pay",
+      "money": -121,
+      "date": "2025-01-05 23:24:55",
+      "useFor": "clothes",
+      "id": 5
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2025-01-08 13:08:48",
+      "useFor": "supplies",
+      "id": 6
+    },
+    {
+      "type": "pay",
+      "money": -18,
+      "date": "2025-01-12 07:04:10",
+      "useFor": "drinks",
+      "id": 7
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2025-01-12 21:19:10",
+      "useFor": "salary",
+      "id": 8
+    },
+    {
+      "type": "pay",
+      "money": -440,
+      "date": "2025-01-17 08:09:39",
+      "useFor": "clothes",
+      "id": 9
+    },
+    {
+      "type": "pay",
+      "money": -27,
+      "date": "2025-01-17 16:44:14",
+      "useFor": "drinks",
+      "id": 10
+    },
+    {
+      "type": "pay",
+      "money": -10,
+      "date": "2025-01-19 10:38:50",
+      "useFor": "drinks",
+      "id": 11
+    },
+    {
+      "type": "pay",
+      "money": -60,
+      "date": "2025-01-21 12:22:53",
+      "useFor": "health",
+      "id": 12
+    },
+    {
+      "type": "pay",
+      "money": -551,
+      "date": "2025-01-22 19:21:59",
+      "useFor": "travel",
+      "id": 13
+    },
+    {
+      "type": "pay",
+      "money": -1981,
+      "date": "2025-01-27 00:45:03",
+      "useFor": "electronics",
+      "id": 14
+    },
+    {
+      "type": "pay",
+      "money": -416,
+      "date": "2025-01-27 10:54:10",
+      "useFor": "clothes",
+      "id": 15
+    },
+    {
+      "type": "pay",
+      "money": -26,
+      "date": "2025-01-28 05:53:52",
+      "useFor": "longdistance",
+      "id": 16
+    },
+    {
+      "type": "pay",
+      "money": -74,
+      "date": "2025-01-29 15:58:25",
+      "useFor": "shopping",
+      "id": 17
+    },
+    {
+      "type": "pay",
+      "money": -166,
+      "date": "2025-02-04 11:11:23",
+      "useFor": "shopping",
+      "id": 18
+    },
+    {
+      "type": "pay",
+      "money": -94,
+      "date": "2025-02-04 20:57:51",
+      "useFor": "health",
+      "id": 19
+    },
+    {
+      "type": "pay",
+      "money": -493,
+      "date": "2025-02-05 21:40:30",
+      "useFor": "clothes",
+      "id": 20
+    },
+    {
+      "type": "pay",
+      "money": -216,
+      "date": "2025-02-08 21:30:20",
+      "useFor": "shopping",
+      "id": 21
+    },
+    {
+      "type": "pay",
+      "money": -82,
+      "date": "2025-02-08 22:22:39",
+      "useFor": "longdistance",
+      "id": 22
+    },
+    {
+      "type": "pay",
+      "money": -91,
+      "date": "2025-02-09 07:23:27",
+      "useFor": "transportation",
+      "id": 23
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-02-10 08:01:56",
+      "useFor": "allowance",
+      "id": 24
+    },
+    {
+      "type": "pay",
+      "money": -55,
+      "date": "2025-02-11 04:05:36",
+      "useFor": "supplies",
+      "id": 25
+    },
+    {
+      "type": "pay",
+      "money": -36,
+      "date": "2025-02-11 05:48:46",
+      "useFor": "books",
+      "id": 26
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2025-02-11 07:43:40",
+      "useFor": "transportation",
+      "id": 27
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-02-12 01:31:14",
+      "useFor": "salary",
+      "id": 28
+    },
+    {
+      "type": "pay",
+      "money": -34,
+      "date": "2025-02-12 02:51:37",
+      "useFor": "health",
+      "id": 29
+    },
+    {
+      "type": "pay",
+      "money": -127,
+      "date": "2025-02-14 02:30:43",
+      "useFor": "entertainment",
+      "id": 30
+    },
+    {
+      "type": "pay",
+      "money": -142,
+      "date": "2025-02-16 17:49:00",
+      "useFor": "shopping",
+      "id": 31
+    },
+    {
+      "type": "pay",
+      "money": -55,
+      "date": "2025-02-20 11:23:27",
+      "useFor": "food",
+      "id": 32
+    },
+    {
+      "type": "pay",
+      "money": -669,
+      "date": "2025-02-23 00:15:40",
+      "useFor": "travel",
+      "id": 33
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2025-03-01 03:46:51",
+      "useFor": "dessert",
+      "id": 34
+    },
+    {
+      "type": "pay",
+      "money": -8,
+      "date": "2025-03-06 07:45:01",
+      "useFor": "drinks",
+      "id": 35
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2025-03-07 18:40:52",
+      "useFor": "bonus",
+      "id": 36
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2025-03-08 18:23:33",
+      "useFor": "dessert",
+      "id": 37
+    },
+    {
+      "type": "pay",
+      "money": -841,
+      "date": "2025-03-11 15:31:37",
+      "useFor": "travel",
+      "id": 38
+    },
+    {
+      "type": "pay",
+      "money": -88,
+      "date": "2025-03-17 12:19:59",
+      "useFor": "health",
+      "id": 39
+    },
+    {
+      "type": "pay",
+      "money": -18,
+      "date": "2025-03-19 16:17:11",
+      "useFor": "transportation",
+      "id": 40
+    },
+    {
+      "type": "pay",
+      "money": -194,
+      "date": "2025-03-21 11:51:07",
+      "useFor": "health",
+      "id": 41
+    },
+    {
+      "type": "pay",
+      "money": -23,
+      "date": "2025-03-22 02:32:17",
+      "useFor": "drinks",
+      "id": 42
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2025-03-23 06:36:04",
+      "useFor": "parttime",
+      "id": 43
+    },
+    {
+      "type": "pay",
+      "money": -1320,
+      "date": "2025-03-23 17:19:03",
+      "useFor": "travel",
+      "id": 44
+    },
+    {
+      "type": "pay",
+      "money": -42,
+      "date": "2025-03-24 22:59:15",
+      "useFor": "dessert",
+      "id": 45
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2025-03-27 01:36:56",
+      "useFor": "food",
+      "id": 46
+    },
+    {
+      "type": "pay",
+      "money": -84,
+      "date": "2025-03-27 20:33:17",
+      "useFor": "longdistance",
+      "id": 47
+    },
+    {
+      "type": "pay",
+      "money": -431,
+      "date": "2025-03-28 06:02:28",
+      "useFor": "clothes",
+      "id": 48
+    },
+    {
+      "type": "pay",
+      "money": -1938,
+      "date": "2025-03-29 07:51:54",
+      "useFor": "travel",
+      "id": 49
+    },
+    {
+      "type": "pay",
+      "money": -87,
+      "date": "2025-03-29 09:05:31",
+      "useFor": "longdistance",
+      "id": 50
+    },
+    {
+      "type": "pay",
+      "money": -155,
+      "date": "2025-04-01 00:39:58",
+      "useFor": "health",
+      "id": 51
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2025-04-07 02:31:17",
+      "useFor": "drinks",
+      "id": 52
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-04-09 16:08:40",
+      "useFor": "allowance",
+      "id": 53
+    },
+    {
+      "type": "pay",
+      "money": -128,
+      "date": "2025-04-11 06:45:46",
+      "useFor": "longdistance",
+      "id": 54
+    },
+    {
+      "type": "pay",
+      "money": -98,
+      "date": "2025-04-12 14:58:55",
+      "useFor": "health",
+      "id": 55
+    },
+    {
+      "type": "pay",
+      "money": -62,
+      "date": "2025-04-13 20:48:48",
+      "useFor": "longdistance",
+      "id": 56
+    },
+    {
+      "type": "pay",
+      "money": -71,
+      "date": "2025-04-16 03:10:32",
+      "useFor": "longdistance",
+      "id": 57
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2025-04-18 14:54:11",
+      "useFor": "food",
+      "id": 58
+    },
+    {
+      "type": "pay",
+      "money": -1475,
+      "date": "2025-04-19 03:03:59",
+      "useFor": "travel",
+      "id": 59
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2025-04-19 03:38:28",
+      "useFor": "bonus",
+      "id": 60
+    },
+    {
+      "type": "pay",
+      "money": -162,
+      "date": "2025-04-22 22:01:10",
+      "useFor": "entertainment",
+      "id": 61
+    },
+    {
+      "type": "pay",
+      "money": -52,
+      "date": "2025-04-24 01:44:38",
+      "useFor": "dessert",
+      "id": 62
+    },
+    {
+      "type": "pay",
+      "money": -10,
+      "date": "2025-04-24 14:13:11",
+      "useFor": "drinks",
+      "id": 63
+    },
+    {
+      "type": "pay",
+      "money": -51,
+      "date": "2025-04-24 17:16:00",
+      "useFor": "transportation",
+      "id": 64
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2025-04-25 15:28:12",
+      "useFor": "salary",
+      "id": 65
+    },
+    {
+      "type": "pay",
+      "money": -61,
+      "date": "2025-04-27 04:25:19",
+      "useFor": "health",
+      "id": 66
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2025-04-28 13:01:07",
+      "useFor": "food",
+      "id": 67
+    },
+    {
+      "type": "pay",
+      "money": -84,
+      "date": "2025-05-02 12:35:55",
+      "useFor": "clothes",
+      "id": 68
+    },
+    {
+      "type": "pay",
+      "money": -2684,
+      "date": "2025-05-03 20:35:34",
+      "useFor": "electronics",
+      "id": 69
+    },
+    {
+      "type": "pay",
+      "money": -53,
+      "date": "2025-05-04 10:42:46",
+      "useFor": "clothes",
+      "id": 70
+    },
+    {
+      "type": "pay",
+      "money": -326,
+      "date": "2025-05-07 10:09:16",
+      "useFor": "clothes",
+      "id": 71
+    },
+    {
+      "type": "pay",
+      "money": -124,
+      "date": "2025-05-10 05:50:37",
+      "useFor": "health",
+      "id": 72
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2025-05-17 09:53:53",
+      "useFor": "bonus",
+      "id": 73
+    },
+    {
+      "type": "pay",
+      "money": -11,
+      "date": "2025-05-21 22:12:39",
+      "useFor": "drinks",
+      "id": 74
+    },
+    {
+      "type": "pay",
+      "money": -92,
+      "date": "2025-05-23 23:03:12",
+      "useFor": "entertainment",
+      "id": 75
+    },
+    {
+      "type": "pay",
+      "money": -192,
+      "date": "2025-05-24 13:32:55",
+      "useFor": "clothes",
+      "id": 76
+    },
+    {
+      "type": "pay",
+      "money": -19,
+      "date": "2025-05-25 23:02:07",
+      "useFor": "supplies",
+      "id": 77
+    },
+    {
+      "type": "pay",
+      "money": -2438,
+      "date": "2025-05-28 23:20:06",
+      "useFor": "electronics",
+      "id": 78
+    },
+    {
+      "type": "pay",
+      "money": -44,
+      "date": "2025-05-29 13:34:56",
+      "useFor": "food",
+      "id": 79
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-06-03 15:06:50",
+      "useFor": "parttime",
+      "id": 80
+    },
+    {
+      "type": "pay",
+      "money": -93,
+      "date": "2025-06-04 15:49:47",
+      "useFor": "entertainment",
+      "id": 81
+    },
+    {
+      "type": "pay",
+      "money": -16,
+      "date": "2025-06-05 12:39:32",
+      "useFor": "food",
+      "id": 82
+    },
+    {
+      "type": "pay",
+      "money": -170,
+      "date": "2025-06-05 18:04:18",
+      "useFor": "entertainment",
+      "id": 83
+    },
+    {
+      "type": "pay",
+      "money": -1489,
+      "date": "2025-06-06 07:18:27",
+      "useFor": "electronics",
+      "id": 84
+    },
+    {
+      "type": "pay",
+      "money": -134,
+      "date": "2025-06-07 19:19:27",
+      "useFor": "longdistance",
+      "id": 85
+    },
+    {
+      "type": "pay",
+      "money": -80,
+      "date": "2025-06-09 01:45:59",
+      "useFor": "health",
+      "id": 86
+    },
+    {
+      "type": "pay",
+      "money": -148,
+      "date": "2025-06-10 05:36:33",
+      "useFor": "clothes",
+      "id": 87
+    },
+    {
+      "type": "pay",
+      "money": -64,
+      "date": "2025-06-13 20:59:02",
+      "useFor": "food",
+      "id": 88
+    },
+    {
+      "type": "pay",
+      "money": -475,
+      "date": "2025-06-14 12:31:43",
+      "useFor": "travel",
+      "id": 89
+    },
+    {
+      "type": "pay",
+      "money": -36,
+      "date": "2025-06-19 09:32:08",
+      "useFor": "food",
+      "id": 90
+    },
+    {
+      "type": "pay",
+      "money": -492,
+      "date": "2025-06-20 11:14:44",
+      "useFor": "clothes",
+      "id": 91
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-06-20 13:05:16",
+      "useFor": "salary",
+      "id": 92
+    },
+    {
+      "type": "pay",
+      "money": -1094,
+      "date": "2025-06-24 08:49:23",
+      "useFor": "travel",
+      "id": 93
+    },
+    {
+      "type": "pay",
+      "money": -86,
+      "date": "2025-07-02 22:18:08",
+      "useFor": "transportation",
+      "id": 94
+    },
+    {
+      "type": "pay",
+      "money": -60,
+      "date": "2025-07-03 18:16:10",
+      "useFor": "longdistance",
+      "id": 95
+    },
+    {
+      "type": "pay",
+      "money": -1384,
+      "date": "2025-07-03 18:36:08",
+      "useFor": "electronics",
+      "id": 96
+    },
+    {
+      "type": "pay",
+      "money": -75,
+      "date": "2025-07-03 20:08:16",
+      "useFor": "books",
+      "id": 97
+    },
+    {
+      "type": "pay",
+      "money": -79,
+      "date": "2025-07-03 23:01:14",
+      "useFor": "transportation",
+      "id": 98
+    },
+    {
+      "type": "pay",
+      "money": -43,
+      "date": "2025-07-04 07:10:48",
+      "useFor": "drinks",
+      "id": 99
+    },
+    {
+      "type": "pay",
+      "money": -110,
+      "date": "2025-07-04 12:31:07",
+      "useFor": "entertainment",
+      "id": 100
+    },
+    {
+      "type": "pay",
+      "money": -40,
+      "date": "2025-07-10 00:30:06",
+      "useFor": "longdistance",
+      "id": 101
+    },
+    {
+      "type": "income",
+      "money": 800,
+      "date": "2025-07-10 05:14:49",
+      "useFor": "parttime",
+      "id": 102
+    },
+    {
+      "type": "pay",
+      "money": -41,
+      "date": "2025-07-12 22:51:42",
+      "useFor": "drinks",
+      "id": 103
+    },
+    {
+      "type": "pay",
+      "money": -52,
+      "date": "2025-07-15 13:31:18",
+      "useFor": "dessert",
+      "id": 104
+    },
+    {
+      "type": "pay",
+      "money": -72,
+      "date": "2025-07-16 06:03:02",
+      "useFor": "books",
+      "id": 105
+    },
+    {
+      "type": "pay",
+      "money": -297,
+      "date": "2025-07-16 08:35:51",
+      "useFor": "shopping",
+      "id": 106
+    },
+    {
+      "type": "pay",
+      "money": -185,
+      "date": "2025-07-20 05:07:26",
+      "useFor": "clothes",
+      "id": 107
+    },
+    {
+      "type": "pay",
+      "money": -150,
+      "date": "2025-07-20 14:25:57",
+      "useFor": "shopping",
+      "id": 108
+    },
+    {
+      "type": "pay",
+      "money": -20,
+      "date": "2025-07-21 08:25:56",
+      "useFor": "transportation",
+      "id": 109
+    },
+    {
+      "type": "pay",
+      "money": -76,
+      "date": "2025-07-25 09:51:47",
+      "useFor": "food",
+      "id": 110
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2025-07-27 23:31:01",
+      "useFor": "allowance",
+      "id": 111
+    },
+    {
+      "type": "pay",
+      "money": -32,
+      "date": "2025-08-04 08:08:51",
+      "useFor": "dessert",
+      "id": 112
+    },
+    {
+      "type": "pay",
+      "money": -53,
+      "date": "2025-08-06 00:41:13",
+      "useFor": "food",
+      "id": 113
+    },
+    {
+      "type": "pay",
+      "money": -26,
+      "date": "2025-08-06 14:29:02",
+      "useFor": "dessert",
+      "id": 114
+    },
+    {
+      "type": "pay",
+      "money": -40,
+      "date": "2025-08-08 13:06:35",
+      "useFor": "drinks",
+      "id": 115
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2025-08-13 20:58:51",
+      "useFor": "bonus",
+      "id": 116
+    },
+    {
+      "type": "pay",
+      "money": -239,
+      "date": "2025-08-14 20:02:03",
+      "useFor": "clothes",
+      "id": 117
+    },
+    {
+      "type": "pay",
+      "money": -417,
+      "date": "2025-08-17 15:29:04",
+      "useFor": "clothes",
+      "id": 118
+    },
+    {
+      "type": "pay",
+      "money": -187,
+      "date": "2025-08-26 16:15:38",
+      "useFor": "health",
+      "id": 119
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-08-27 02:23:22",
+      "useFor": "salary",
+      "id": 120
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2025-08-27 08:53:41",
+      "useFor": "dessert",
+      "id": 121
+    },
+    {
+      "type": "pay",
+      "money": -92,
+      "date": "2025-08-30 08:40:40",
+      "useFor": "books",
+      "id": 122
+    },
+    {
+      "type": "pay",
+      "money": -1339,
+      "date": "2025-08-30 16:39:22",
+      "useFor": "electronics",
+      "id": 123
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-09-03 03:21:53",
+      "useFor": "parttime",
+      "id": 124
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2025-09-04 15:39:55",
+      "useFor": "food",
+      "id": 125
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2025-09-05 11:32:07",
+      "useFor": "allowance",
+      "id": 126
+    },
+    {
+      "type": "pay",
+      "money": -57,
+      "date": "2025-09-07 08:24:57",
+      "useFor": "food",
+      "id": 127
+    },
+    {
+      "type": "pay",
+      "money": -164,
+      "date": "2025-09-08 20:15:23",
+      "useFor": "shopping",
+      "id": 128
+    },
+    {
+      "type": "pay",
+      "money": -12,
+      "date": "2025-09-15 23:08:49",
+      "useFor": "dessert",
+      "id": 129
+    },
+    {
+      "type": "pay",
+      "money": -15,
+      "date": "2025-09-18 08:52:40",
+      "useFor": "supplies",
+      "id": 130
+    },
+    {
+      "type": "pay",
+      "money": -57,
+      "date": "2025-09-21 20:44:16",
+      "useFor": "longdistance",
+      "id": 131
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-09-24 17:10:51",
+      "useFor": "allowance",
+      "id": 132
+    },
+    {
+      "type": "pay",
+      "money": -710,
+      "date": "2025-09-27 11:39:31",
+      "useFor": "electronics",
+      "id": 133
+    },
+    {
+      "type": "pay",
+      "money": -1909,
+      "date": "2025-09-27 18:45:15",
+      "useFor": "electronics",
+      "id": 134
+    },
+    {
+      "type": "pay",
+      "money": -1851,
+      "date": "2025-09-28 05:30:13",
+      "useFor": "electronics",
+      "id": 135
+    },
+    {
+      "type": "pay",
+      "money": -62,
+      "date": "2025-09-29 06:40:22",
+      "useFor": "food",
+      "id": 136
+    },
+    {
+      "type": "pay",
+      "money": -1886,
+      "date": "2025-10-02 21:07:02",
+      "useFor": "travel",
+      "id": 137
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2025-10-04 08:52:51",
+      "useFor": "supplies",
+      "id": 138
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2025-10-05 23:45:47",
+      "useFor": "bonus",
+      "id": 139
+    },
+    {
+      "type": "pay",
+      "money": -60,
+      "date": "2025-10-06 05:56:25",
+      "useFor": "books",
+      "id": 140
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2025-10-08 21:19:41",
+      "useFor": "bonus",
+      "id": 141
+    },
+    {
+      "type": "pay",
+      "money": -86,
+      "date": "2025-10-10 16:31:09",
+      "useFor": "entertainment",
+      "id": 142
+    },
+    {
+      "type": "pay",
+      "money": -78,
+      "date": "2025-10-11 19:43:29",
+      "useFor": "health",
+      "id": 143
+    },
+    {
+      "type": "pay",
+      "money": -125,
+      "date": "2025-10-13 01:08:08",
+      "useFor": "health",
+      "id": 144
+    },
+    {
+      "type": "pay",
+      "money": -119,
+      "date": "2025-10-15 19:34:23",
+      "useFor": "entertainment",
+      "id": 145
+    },
+    {
+      "type": "pay",
+      "money": -37,
+      "date": "2025-10-17 03:01:26",
+      "useFor": "food",
+      "id": 146
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2025-10-20 08:14:47",
+      "useFor": "food",
+      "id": 147
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-10-20 17:27:50",
+      "useFor": "allowance",
+      "id": 148
+    },
+    {
+      "type": "pay",
+      "money": -65,
+      "date": "2025-10-21 00:21:28",
+      "useFor": "health",
+      "id": 149
+    },
+    {
+      "type": "pay",
+      "money": -1886,
+      "date": "2025-11-01 01:58:13",
+      "useFor": "electronics",
+      "id": 150
+    },
+    {
+      "type": "pay",
+      "money": -180,
+      "date": "2025-11-03 03:42:50",
+      "useFor": "clothes",
+      "id": 151
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2025-11-06 06:17:53",
+      "useFor": "books",
+      "id": 152
+    },
+    {
+      "type": "pay",
+      "money": -13,
+      "date": "2025-11-06 14:22:58",
+      "useFor": "supplies",
+      "id": 153
+    },
+    {
+      "type": "pay",
+      "money": -75,
+      "date": "2025-11-06 14:44:13",
+      "useFor": "transportation",
+      "id": 154
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2025-11-07 01:11:56",
+      "useFor": "transportation",
+      "id": 155
+    },
+    {
+      "type": "pay",
+      "money": -52,
+      "date": "2025-11-10 07:30:35",
+      "useFor": "longdistance",
+      "id": 156
+    },
+    {
+      "type": "pay",
+      "money": -1527,
+      "date": "2025-11-15 08:27:47",
+      "useFor": "travel",
+      "id": 157
+    },
+    {
+      "type": "pay",
+      "money": -124,
+      "date": "2025-11-16 20:01:50",
+      "useFor": "books",
+      "id": 158
+    },
+    {
+      "type": "pay",
+      "money": -243,
+      "date": "2025-11-17 00:42:39",
+      "useFor": "travel",
+      "id": 159
+    },
+    {
+      "type": "pay",
+      "money": -65,
+      "date": "2025-11-17 18:45:16",
+      "useFor": "transportation",
+      "id": 160
+    },
+    {
+      "type": "pay",
+      "money": -70,
+      "date": "2025-11-18 16:20:55",
+      "useFor": "longdistance",
+      "id": 161
+    },
+    {
+      "type": "pay",
+      "money": -1384,
+      "date": "2025-11-22 04:26:08",
+      "useFor": "electronics",
+      "id": 162
+    },
+    {
+      "type": "pay",
+      "money": -1330,
+      "date": "2025-11-25 14:50:25",
+      "useFor": "electronics",
+      "id": 163
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2025-11-25 17:30:02",
+      "useFor": "allowance",
+      "id": 164
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2025-11-27 00:44:11",
+      "useFor": "parttime",
+      "id": 165
+    },
+    {
+      "type": "pay",
+      "money": -1942,
+      "date": "2025-11-28 23:46:25",
+      "useFor": "travel",
+      "id": 166
+    },
+    {
+      "type": "pay",
+      "money": -65,
+      "date": "2025-11-29 04:26:09",
+      "useFor": "books",
+      "id": 167
+    },
+    {
+      "type": "pay",
+      "money": -11,
+      "date": "2025-12-03 05:50:34",
+      "useFor": "dessert",
+      "id": 168
+    },
+    {
+      "type": "pay",
+      "money": -73,
+      "date": "2025-12-05 02:47:38",
+      "useFor": "entertainment",
+      "id": 169
+    },
+    {
+      "type": "pay",
+      "money": -105,
+      "date": "2025-12-05 12:48:14",
+      "useFor": "books",
+      "id": 170
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2025-12-09 10:45:23",
+      "useFor": "parttime",
+      "id": 171
+    },
+    {
+      "type": "pay",
+      "money": -462,
+      "date": "2025-12-10 16:00:11",
+      "useFor": "clothes",
+      "id": 172
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2025-12-14 22:16:43",
+      "useFor": "salary",
+      "id": 173
+    },
+    {
+      "type": "pay",
+      "money": -80,
+      "date": "2025-12-16 01:39:53",
+      "useFor": "health",
+      "id": 174
+    },
+    {
+      "type": "pay",
+      "money": -93,
+      "date": "2025-12-16 15:26:51",
+      "useFor": "transportation",
+      "id": 175
+    },
+    {
+      "type": "pay",
+      "money": -143,
+      "date": "2025-12-22 11:09:12",
+      "useFor": "entertainment",
+      "id": 176
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2025-12-23 02:35:53",
+      "useFor": "health",
+      "id": 177
+    },
+    {
+      "type": "pay",
+      "money": -139,
+      "date": "2025-12-25 19:33:39",
+      "useFor": "shopping",
+      "id": 178
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2025-12-27 14:23:35",
+      "useFor": "allowance",
+      "id": 179
+    },
+    {
+      "type": "pay",
+      "money": -270,
+      "date": "2025-12-29 03:43:52",
+      "useFor": "clothes",
+      "id": 180
+    },
+    {
+      "type": "pay",
+      "money": -293,
+      "date": "2025-12-30 16:11:08",
+      "useFor": "clothes",
+      "id": 181
+    },
+    {
+      "type": "pay",
+      "money": -1914,
+      "date": "2025-12-31 13:43:47",
+      "useFor": "travel",
+      "id": 182
+    },
+    {
+      "type": "pay",
+      "money": -125,
+      "date": "2026-01-01 06:27:36",
+      "useFor": "clothes",
+      "id": 183
+    },
+    {
+      "type": "pay",
+      "money": -484,
+      "date": "2026-01-06 21:23:34",
+      "useFor": "clothes",
+      "id": 184
+    },
+    {
+      "type": "pay",
+      "money": -134,
+      "date": "2026-01-08 17:25:56",
+      "useFor": "longdistance",
+      "id": 185
+    },
+    {
+      "type": "pay",
+      "money": -50,
+      "date": "2026-01-14 20:53:50",
+      "useFor": "drinks",
+      "id": 186
+    },
+    {
+      "type": "pay",
+      "money": -189,
+      "date": "2026-01-17 07:17:26",
+      "useFor": "clothes",
+      "id": 187
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-01-20 09:37:45",
+      "useFor": "parttime",
+      "id": 188
+    },
+    {
+      "type": "pay",
+      "money": -47,
+      "date": "2026-01-21 15:19:52",
+      "useFor": "health",
+      "id": 189
+    },
+    {
+      "type": "pay",
+      "money": -74,
+      "date": "2026-01-21 17:11:20",
+      "useFor": "transportation",
+      "id": 190
+    },
+    {
+      "type": "pay",
+      "money": -190,
+      "date": "2026-01-22 08:29:19",
+      "useFor": "clothes",
+      "id": 191
+    },
+    {
+      "type": "pay",
+      "money": -192,
+      "date": "2026-01-22 11:38:07",
+      "useFor": "shopping",
+      "id": 192
+    },
+    {
+      "type": "pay",
+      "money": -2044,
+      "date": "2026-01-22 20:22:09",
+      "useFor": "electronics",
+      "id": 193
+    },
+    {
+      "type": "pay",
+      "money": -64,
+      "date": "2026-01-23 13:20:54",
+      "useFor": "entertainment",
+      "id": 194
+    },
+    {
+      "type": "pay",
+      "money": -140,
+      "date": "2026-01-26 03:27:52",
+      "useFor": "clothes",
+      "id": 195
+    },
+    {
+      "type": "pay",
+      "money": -42,
+      "date": "2026-01-28 01:25:29",
+      "useFor": "entertainment",
+      "id": 196
+    },
+    {
+      "type": "pay",
+      "money": -144,
+      "date": "2026-01-31 10:12:53",
+      "useFor": "books",
+      "id": 197
+    },
+    {
+      "type": "pay",
+      "money": -83,
+      "date": "2026-01-31 22:55:45",
+      "useFor": "books",
+      "id": 198
+    },
+    {
+      "type": "pay",
+      "money": -1953,
+      "date": "2026-02-01 22:45:22",
+      "useFor": "travel",
+      "id": 199
+    },
+    {
+      "type": "pay",
+      "money": -136,
+      "date": "2026-02-04 00:32:41",
+      "useFor": "entertainment",
+      "id": 200
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-02-08 07:43:49",
+      "useFor": "salary",
+      "id": 201
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2026-02-08 10:01:51",
+      "useFor": "bonus",
+      "id": 202
+    },
+    {
+      "type": "pay",
+      "money": -31,
+      "date": "2026-02-18 01:49:43",
+      "useFor": "entertainment",
+      "id": 203
+    },
+    {
+      "type": "pay",
+      "money": -167,
+      "date": "2026-02-19 11:10:33",
+      "useFor": "health",
+      "id": 204
+    },
+    {
+      "type": "pay",
+      "money": -37,
+      "date": "2026-02-19 21:03:05",
+      "useFor": "entertainment",
+      "id": 205
+    },
+    {
+      "type": "pay",
+      "money": -95,
+      "date": "2026-02-20 15:03:47",
+      "useFor": "supplies",
+      "id": 206
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2026-02-21 03:21:22",
+      "useFor": "bonus",
+      "id": 207
+    },
+    {
+      "type": "pay",
+      "money": -119,
+      "date": "2026-02-21 08:11:42",
+      "useFor": "books",
+      "id": 208
+    },
+    {
+      "type": "pay",
+      "money": -476,
+      "date": "2026-02-21 09:30:09",
+      "useFor": "clothes",
+      "id": 209
+    },
+    {
+      "type": "pay",
+      "money": -189,
+      "date": "2026-02-22 03:47:08",
+      "useFor": "clothes",
+      "id": 210
+    },
+    {
+      "type": "pay",
+      "money": -76,
+      "date": "2026-02-24 16:49:42",
+      "useFor": "longdistance",
+      "id": 211
+    },
+    {
+      "type": "pay",
+      "money": -777,
+      "date": "2026-02-27 08:11:16",
+      "useFor": "travel",
+      "id": 212
+    },
+    {
+      "type": "pay",
+      "money": -35,
+      "date": "2026-03-01 22:34:59",
+      "useFor": "drinks",
+      "id": 213
+    },
+    {
+      "type": "pay",
+      "money": -479,
+      "date": "2026-03-01 23:44:39",
+      "useFor": "clothes",
+      "id": 214
+    },
+    {
+      "type": "pay",
+      "money": -82,
+      "date": "2026-03-02 07:34:34",
+      "useFor": "transportation",
+      "id": 215
+    },
+    {
+      "type": "pay",
+      "money": -186,
+      "date": "2026-03-02 22:54:14",
+      "useFor": "health",
+      "id": 216
+    },
+    {
+      "type": "pay",
+      "money": -2309,
+      "date": "2026-03-03 12:41:02",
+      "useFor": "electronics",
+      "id": 217
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2026-03-04 07:56:46",
+      "useFor": "supplies",
+      "id": 218
+    },
+    {
+      "type": "pay",
+      "money": -40,
+      "date": "2026-03-06 13:16:24",
+      "useFor": "dessert",
+      "id": 219
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2026-03-09 19:43:46",
+      "useFor": "dessert",
+      "id": 220
+    },
+    {
+      "type": "pay",
+      "money": -29,
+      "date": "2026-03-12 13:55:30",
+      "useFor": "transportation",
+      "id": 221
+    },
+    {
+      "type": "pay",
+      "money": -27,
+      "date": "2026-03-13 00:06:21",
+      "useFor": "health",
+      "id": 222
+    },
+    {
+      "type": "pay",
+      "money": -127,
+      "date": "2026-03-13 05:55:03",
+      "useFor": "books",
+      "id": 223
+    },
+    {
+      "type": "pay",
+      "money": -48,
+      "date": "2026-03-19 09:41:16",
+      "useFor": "food",
+      "id": 224
+    },
+    {
+      "type": "pay",
+      "money": -53,
+      "date": "2026-03-19 09:42:50",
+      "useFor": "supplies",
+      "id": 225
+    },
+    {
+      "type": "pay",
+      "money": -26,
+      "date": "2026-03-20 03:04:00",
+      "useFor": "longdistance",
+      "id": 226
+    },
+    {
+      "type": "pay",
+      "money": -46,
+      "date": "2026-03-21 19:22:12",
+      "useFor": "drinks",
+      "id": 227
+    },
+    {
+      "type": "pay",
+      "money": -37,
+      "date": "2026-03-23 01:45:47",
+      "useFor": "supplies",
+      "id": 228
+    },
+    {
+      "type": "income",
+      "money": 800,
+      "date": "2026-03-31 04:58:54",
+      "useFor": "parttime",
+      "id": 229
+    },
+    {
+      "type": "pay",
+      "money": -42,
+      "date": "2026-04-02 05:55:03",
+      "useFor": "drinks",
+      "id": 230
+    },
+    {
+      "type": "pay",
+      "money": -912,
+      "date": "2026-04-04 16:32:32",
+      "useFor": "electronics",
+      "id": 231
+    },
+    {
+      "type": "pay",
+      "money": -87,
+      "date": "2026-04-06 13:26:25",
+      "useFor": "transportation",
+      "id": 232
+    },
+    {
+      "type": "pay",
+      "money": -265,
+      "date": "2026-04-08 10:14:51",
+      "useFor": "shopping",
+      "id": 233
+    },
+    {
+      "type": "pay",
+      "money": -114,
+      "date": "2026-04-09 03:29:18",
+      "useFor": "health",
+      "id": 234
+    },
+    {
+      "type": "pay",
+      "money": -98,
+      "date": "2026-04-12 18:56:24",
+      "useFor": "transportation",
+      "id": 235
+    },
+    {
+      "type": "income",
+      "money": 2000,
+      "date": "2026-04-13 10:32:43",
+      "useFor": "parttime",
+      "id": 236
+    },
+    {
+      "type": "pay",
+      "money": -49,
+      "date": "2026-04-15 15:22:09",
+      "useFor": "drinks",
+      "id": 237
+    },
+    {
+      "type": "pay",
+      "money": -61,
+      "date": "2026-04-16 02:23:11",
+      "useFor": "health",
+      "id": 238
+    },
+    {
+      "type": "pay",
+      "money": -37,
+      "date": "2026-04-17 13:33:47",
+      "useFor": "drinks",
+      "id": 239
+    },
+    {
+      "type": "pay",
+      "money": -30,
+      "date": "2026-04-17 20:31:18",
+      "useFor": "health",
+      "id": 240
+    },
+    {
+      "type": "pay",
+      "money": -32,
+      "date": "2026-04-18 13:58:46",
+      "useFor": "drinks",
+      "id": 241
+    },
+    {
+      "type": "pay",
+      "money": -129,
+      "date": "2026-04-18 23:44:46",
+      "useFor": "longdistance",
+      "id": 242
+    },
+    {
+      "type": "pay",
+      "money": -116,
+      "date": "2026-04-20 06:08:09",
+      "useFor": "books",
+      "id": 243
+    },
+    {
+      "type": "pay",
+      "money": -68,
+      "date": "2026-04-24 19:07:34",
+      "useFor": "food",
+      "id": 244
+    },
+    {
+      "type": "pay",
+      "money": -91,
+      "date": "2026-04-28 11:21:33",
+      "useFor": "shopping",
+      "id": 245
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2026-05-05 03:44:46",
+      "useFor": "food",
+      "id": 246
+    },
+    {
+      "type": "pay",
+      "money": -172,
+      "date": "2026-05-12 15:59:51",
+      "useFor": "entertainment",
+      "id": 247
+    },
+    {
+      "type": "pay",
+      "money": -102,
+      "date": "2026-05-12 22:01:21",
+      "useFor": "books",
+      "id": 248
+    },
+    {
+      "type": "pay",
+      "money": -231,
+      "date": "2026-05-13 13:00:08",
+      "useFor": "clothes",
+      "id": 249
+    },
+    {
+      "type": "pay",
+      "money": -88,
+      "date": "2026-05-19 09:33:16",
+      "useFor": "transportation",
+      "id": 250
+    },
+    {
+      "type": "pay",
+      "money": -418,
+      "date": "2026-05-20 17:31:23",
+      "useFor": "clothes",
+      "id": 251
+    },
+    {
+      "type": "pay",
+      "money": -22,
+      "date": "2026-05-22 21:13:20",
+      "useFor": "drinks",
+      "id": 252
+    },
+    {
+      "type": "pay",
+      "money": -434,
+      "date": "2026-05-23 13:25:28",
+      "useFor": "clothes",
+      "id": 253
+    },
+    {
+      "type": "pay",
+      "money": -143,
+      "date": "2026-05-23 13:37:01",
+      "useFor": "health",
+      "id": 254
+    },
+    {
+      "type": "pay",
+      "money": -33,
+      "date": "2026-05-24 16:02:12",
+      "useFor": "supplies",
+      "id": 255
+    },
+    {
+      "type": "pay",
+      "money": -13,
+      "date": "2026-05-24 23:54:31",
+      "useFor": "supplies",
+      "id": 256
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-05-27 03:01:00",
+      "useFor": "allowance",
+      "id": 257
+    },
+    {
+      "type": "pay",
+      "money": -1231,
+      "date": "2026-05-27 23:32:36",
+      "useFor": "electronics",
+      "id": 258
+    },
+    {
+      "type": "pay",
+      "money": -1791,
+      "date": "2026-05-29 18:16:58",
+      "useFor": "travel",
+      "id": 259
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2026-05-29 22:34:15",
+      "useFor": "supplies",
+      "id": 260
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-06-01 20:05:23",
+      "useFor": "parttime",
+      "id": 261
+    },
+    {
+      "type": "pay",
+      "money": -92,
+      "date": "2026-06-05 21:07:17",
+      "useFor": "books",
+      "id": 262
+    },
+    {
+      "type": "pay",
+      "money": -196,
+      "date": "2026-06-09 23:42:54",
+      "useFor": "health",
+      "id": 263
+    },
+    {
+      "type": "pay",
+      "money": -111,
+      "date": "2026-06-10 08:22:37",
+      "useFor": "clothes",
+      "id": 264
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2026-06-11 18:10:42",
+      "useFor": "salary",
+      "id": 265
+    },
+    {
+      "type": "pay",
+      "money": -201,
+      "date": "2026-06-12 01:02:13",
+      "useFor": "clothes",
+      "id": 266
+    },
+    {
+      "type": "pay",
+      "money": -1516,
+      "date": "2026-06-12 19:28:15",
+      "useFor": "travel",
+      "id": 267
+    },
+    {
+      "type": "pay",
+      "money": -98,
+      "date": "2026-06-13 04:54:23",
+      "useFor": "books",
+      "id": 268
+    },
+    {
+      "type": "pay",
+      "money": -31,
+      "date": "2026-06-14 07:35:45",
+      "useFor": "food",
+      "id": 269
+    },
+    {
+      "type": "pay",
+      "money": -32,
+      "date": "2026-06-15 16:10:02",
+      "useFor": "supplies",
+      "id": 270
+    },
+    {
+      "type": "pay",
+      "money": -2354,
+      "date": "2026-06-17 01:23:59",
+      "useFor": "electronics",
+      "id": 271
+    },
+    {
+      "type": "pay",
+      "money": -108,
+      "date": "2026-06-21 15:44:52",
+      "useFor": "longdistance",
+      "id": 272
+    },
+    {
+      "type": "pay",
+      "money": -99,
+      "date": "2026-06-23 00:39:05",
+      "useFor": "supplies",
+      "id": 273
+    },
+    {
+      "type": "pay",
+      "money": -114,
+      "date": "2026-06-23 23:23:18",
+      "useFor": "books",
+      "id": 274
+    },
+    {
+      "type": "pay",
+      "money": -160,
+      "date": "2026-06-24 12:07:56",
+      "useFor": "clothes",
+      "id": 275
+    },
+    {
+      "type": "pay",
+      "money": -25,
+      "date": "2026-06-27 00:19:36",
+      "useFor": "supplies",
+      "id": 276
+    },
+    {
+      "type": "pay",
+      "money": -21,
+      "date": "2026-06-27 20:42:35",
+      "useFor": "food",
+      "id": 277
+    },
+    {
+      "type": "pay",
+      "money": -20,
+      "date": "2026-07-06 18:00:21",
+      "useFor": "drinks",
+      "id": 278
+    },
+    {
+      "type": "pay",
+      "money": -57,
+      "date": "2026-07-08 08:46:29",
+      "useFor": "shopping",
+      "id": 279
+    },
+    {
+      "type": "pay",
+      "money": -117,
+      "date": "2026-07-09 22:47:57",
+      "useFor": "entertainment",
+      "id": 280
+    },
+    {
+      "type": "pay",
+      "money": -89,
+      "date": "2026-07-11 22:56:40",
+      "useFor": "transportation",
+      "id": 281
+    },
+    {
+      "type": "pay",
+      "money": -143,
+      "date": "2026-07-15 10:26:29",
+      "useFor": "entertainment",
+      "id": 282
+    },
+    {
+      "type": "pay",
+      "money": -46,
+      "date": "2026-07-15 17:59:38",
+      "useFor": "dessert",
+      "id": 283
+    },
+    {
+      "type": "pay",
+      "money": -153,
+      "date": "2026-07-19 11:10:21",
+      "useFor": "health",
+      "id": 284
+    },
+    {
+      "type": "pay",
+      "money": -9,
+      "date": "2026-07-20 10:51:28",
+      "useFor": "drinks",
+      "id": 285
+    },
+    {
+      "type": "pay",
+      "money": -47,
+      "date": "2026-07-24 04:35:41",
+      "useFor": "food",
+      "id": 286
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2026-07-24 05:44:32",
+      "useFor": "allowance",
+      "id": 287
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2026-07-24 19:54:54",
+      "useFor": "bonus",
+      "id": 288
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-07-28 20:49:59",
+      "useFor": "salary",
+      "id": 289
+    },
+    {
+      "type": "pay",
+      "money": -48,
+      "date": "2026-07-29 00:16:42",
+      "useFor": "entertainment",
+      "id": 290
+    },
+    {
+      "type": "pay",
+      "money": -126,
+      "date": "2026-07-30 10:24:40",
+      "useFor": "longdistance",
+      "id": 291
+    },
+    {
+      "type": "pay",
+      "money": -14,
+      "date": "2026-08-03 21:29:00",
+      "useFor": "dessert",
+      "id": 292
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2026-08-04 22:35:24",
+      "useFor": "bonus",
+      "id": 293
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2026-08-08 14:22:25",
+      "useFor": "longdistance",
+      "id": 294
+    },
+    {
+      "type": "pay",
+      "money": -25,
+      "date": "2026-08-09 10:30:26",
+      "useFor": "dessert",
+      "id": 295
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-08-11 02:05:25",
+      "useFor": "salary",
+      "id": 296
+    },
+    {
+      "type": "pay",
+      "money": -39,
+      "date": "2026-08-11 21:55:19",
+      "useFor": "drinks",
+      "id": 297
+    },
+    {
+      "type": "pay",
+      "money": -28,
+      "date": "2026-08-12 05:41:21",
+      "useFor": "books",
+      "id": 298
+    },
+    {
+      "type": "pay",
+      "money": -48,
+      "date": "2026-08-12 07:57:30",
+      "useFor": "drinks",
+      "id": 299
+    },
+    {
+      "type": "pay",
+      "money": -106,
+      "date": "2026-08-13 21:29:03",
+      "useFor": "shopping",
+      "id": 300
+    },
+    {
+      "type": "pay",
+      "money": -82,
+      "date": "2026-08-15 00:15:20",
+      "useFor": "transportation",
+      "id": 301
+    },
+    {
+      "type": "pay",
+      "money": -60,
+      "date": "2026-08-15 22:23:37",
+      "useFor": "dessert",
+      "id": 302
+    },
+    {
+      "type": "pay",
+      "money": -1345,
+      "date": "2026-08-20 12:57:23",
+      "useFor": "electronics",
+      "id": 303
+    },
+    {
+      "type": "pay",
+      "money": -70,
+      "date": "2026-08-21 15:19:22",
+      "useFor": "books",
+      "id": 304
+    },
+    {
+      "type": "pay",
+      "money": -67,
+      "date": "2026-08-22 20:52:29",
+      "useFor": "food",
+      "id": 305
+    },
+    {
+      "type": "pay",
+      "money": -92,
+      "date": "2026-08-23 00:59:05",
+      "useFor": "books",
+      "id": 306
+    },
+    {
+      "type": "pay",
+      "money": -61,
+      "date": "2026-08-23 18:04:21",
+      "useFor": "entertainment",
+      "id": 307
+    },
+    {
+      "type": "pay",
+      "money": -2532,
+      "date": "2026-08-23 19:29:15",
+      "useFor": "electronics",
+      "id": 308
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-08-28 14:30:04",
+      "useFor": "parttime",
+      "id": 309
+    },
+    {
+      "type": "income",
+      "money": 1500,
+      "date": "2026-09-04 21:43:17",
+      "useFor": "parttime",
+      "id": 310
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2026-09-05 10:24:12",
+      "useFor": "allowance",
+      "id": 311
+    },
+    {
+      "type": "pay",
+      "money": -83,
+      "date": "2026-09-08 19:22:28",
+      "useFor": "shopping",
+      "id": 312
+    },
+    {
+      "type": "pay",
+      "money": -15,
+      "date": "2026-09-09 12:06:43",
+      "useFor": "transportation",
+      "id": 313
+    },
+    {
+      "type": "pay",
+      "money": -12,
+      "date": "2026-09-14 02:00:11",
+      "useFor": "transportation",
+      "id": 314
+    },
+    {
+      "type": "pay",
+      "money": -782,
+      "date": "2026-09-16 14:03:35",
+      "useFor": "travel",
+      "id": 315
+    },
+    {
+      "type": "income",
+      "money": 5000,
+      "date": "2026-09-16 15:31:54",
+      "useFor": "salary",
+      "id": 316
+    },
+    {
+      "type": "pay",
+      "money": -35,
+      "date": "2026-09-17 21:24:14",
+      "useFor": "drinks",
+      "id": 317
+    },
+    {
+      "type": "pay",
+      "money": -162,
+      "date": "2026-09-22 11:14:04",
+      "useFor": "entertainment",
+      "id": 318
+    },
+    {
+      "type": "pay",
+      "money": -1400,
+      "date": "2026-09-24 20:54:07",
+      "useFor": "travel",
+      "id": 319
+    },
+    {
+      "type": "pay",
+      "money": -62,
+      "date": "2026-09-25 01:15:47",
+      "useFor": "supplies",
+      "id": 320
+    },
+    {
+      "type": "pay",
+      "money": -122,
+      "date": "2026-09-27 16:54:32",
+      "useFor": "books",
+      "id": 321
+    },
+    {
+      "type": "pay",
+      "money": -395,
+      "date": "2026-09-28 22:09:19",
+      "useFor": "clothes",
+      "id": 322
+    },
+    {
+      "type": "pay",
+      "money": -66,
+      "date": "2026-09-29 09:57:30",
+      "useFor": "books",
+      "id": 323
+    },
+    {
+      "type": "pay",
+      "money": -135,
+      "date": "2026-10-03 15:09:08",
+      "useFor": "entertainment",
+      "id": 324
+    },
+    {
+      "type": "pay",
+      "money": -154,
+      "date": "2026-10-06 21:28:17",
+      "useFor": "entertainment",
+      "id": 325
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2026-10-08 16:31:26",
+      "useFor": "food",
+      "id": 326
+    },
+    {
+      "type": "pay",
+      "money": -43,
+      "date": "2026-10-10 21:09:45",
+      "useFor": "entertainment",
+      "id": 327
+    },
+    {
+      "type": "pay",
+      "money": -290,
+      "date": "2026-10-11 21:47:42",
+      "useFor": "travel",
+      "id": 328
+    },
+    {
+      "type": "income",
+      "money": 3000,
+      "date": "2026-10-13 06:03:57",
+      "useFor": "salary",
+      "id": 329
+    },
+    {
+      "type": "pay",
+      "money": -53,
+      "date": "2026-10-14 23:34:41",
+      "useFor": "books",
+      "id": 330
+    },
+    {
+      "type": "pay",
+      "money": -315,
+      "date": "2026-10-18 13:30:12",
+      "useFor": "clothes",
+      "id": 331
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2026-10-20 14:53:53",
+      "useFor": "allowance",
+      "id": 332
+    },
+    {
+      "type": "pay",
+      "money": -20,
+      "date": "2026-10-27 08:10:02",
+      "useFor": "longdistance",
+      "id": 333
+    },
+    {
+      "type": "pay",
+      "money": -23,
+      "date": "2026-10-27 19:25:10",
+      "useFor": "books",
+      "id": 334
+    },
+    {
+      "type": "pay",
+      "money": -73,
+      "date": "2026-10-31 08:39:14",
+      "useFor": "transportation",
+      "id": 335
+    },
+    {
+      "type": "pay",
+      "money": -125,
+      "date": "2026-11-03 02:51:10",
+      "useFor": "health",
+      "id": 336
+    },
+    {
+      "type": "pay",
+      "money": -54,
+      "date": "2026-11-04 09:20:04",
+      "useFor": "longdistance",
+      "id": 337
+    },
+    {
+      "type": "pay",
+      "money": -171,
+      "date": "2026-11-08 00:31:12",
+      "useFor": "entertainment",
+      "id": 338
+    },
+    {
+      "type": "income",
+      "money": 800,
+      "date": "2026-11-08 11:23:21",
+      "useFor": "parttime",
+      "id": 339
+    },
+    {
+      "type": "pay",
+      "money": -59,
+      "date": "2026-11-12 08:07:11",
+      "useFor": "transportation",
+      "id": 340
+    },
+    {
+      "type": "pay",
+      "money": -34,
+      "date": "2026-11-12 14:13:43",
+      "useFor": "supplies",
+      "id": 341
+    },
+    {
+      "type": "pay",
+      "money": -150,
+      "date": "2026-11-12 19:58:01",
+      "useFor": "entertainment",
+      "id": 342
+    },
+    {
+      "type": "pay",
+      "money": -149,
+      "date": "2026-11-13 23:16:43",
+      "useFor": "health",
+      "id": 343
+    },
+    {
+      "type": "pay",
+      "money": -51,
+      "date": "2026-11-15 11:50:33",
+      "useFor": "food",
+      "id": 344
+    },
+    {
+      "type": "pay",
+      "money": -118,
+      "date": "2026-11-17 03:19:14",
+      "useFor": "entertainment",
+      "id": 345
+    },
+    {
+      "type": "pay",
+      "money": -126,
+      "date": "2026-11-17 11:59:00",
+      "useFor": "books",
+      "id": 346
+    },
+    {
+      "type": "pay",
+      "money": -70,
+      "date": "2026-11-19 12:09:59",
+      "useFor": "supplies",
+      "id": 347
+    },
+    {
+      "type": "pay",
+      "money": -1219,
+      "date": "2026-11-21 04:04:52",
+      "useFor": "electronics",
+      "id": 348
+    },
+    {
+      "type": "pay",
+      "money": -116,
+      "date": "2026-11-23 02:30:53",
+      "useFor": "longdistance",
+      "id": 349
+    },
+    {
+      "type": "pay",
+      "money": -84,
+      "date": "2026-11-24 18:28:20",
+      "useFor": "transportation",
+      "id": 350
+    },
+    {
+      "type": "pay",
+      "money": -104,
+      "date": "2026-11-25 16:52:43",
+      "useFor": "entertainment",
+      "id": 351
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2026-11-27 03:29:30",
+      "useFor": "dessert",
+      "id": 352
+    },
+    {
+      "type": "pay",
+      "money": -490,
+      "date": "2026-11-30 02:19:31",
+      "useFor": "travel",
+      "id": 353
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2026-12-02 19:07:51",
+      "useFor": "bonus",
+      "id": 354
+    },
+    {
+      "type": "pay",
+      "money": -109,
+      "date": "2026-12-04 15:10:52",
+      "useFor": "shopping",
+      "id": 355
+    },
+    {
+      "type": "pay",
+      "money": -45,
+      "date": "2026-12-05 21:05:57",
+      "useFor": "drinks",
+      "id": 356
+    },
+    {
+      "type": "pay",
+      "money": -177,
+      "date": "2026-12-12 01:02:26",
+      "useFor": "shopping",
+      "id": 357
+    },
+    {
+      "type": "pay",
+      "money": -23,
+      "date": "2026-12-12 09:31:37",
+      "useFor": "food",
+      "id": 358
+    },
+    {
+      "type": "pay",
+      "money": -224,
+      "date": "2026-12-16 08:56:13",
+      "useFor": "shopping",
+      "id": 359
+    },
+    {
+      "type": "pay",
+      "money": -71,
+      "date": "2026-12-16 22:48:23",
+      "useFor": "shopping",
+      "id": 360
+    },
+    {
+      "type": "pay",
+      "money": -97,
+      "date": "2026-12-17 10:27:08",
+      "useFor": "entertainment",
+      "id": 361
+    },
+    {
+      "type": "pay",
+      "money": -98,
+      "date": "2026-12-20 07:06:05",
+      "useFor": "transportation",
+      "id": 362
+    },
+    {
+      "type": "pay",
+      "money": -33,
+      "date": "2026-12-20 21:39:34",
+      "useFor": "food",
+      "id": 363
+    },
+    {
+      "type": "pay",
+      "money": -470,
+      "date": "2026-12-22 01:36:48",
+      "useFor": "electronics",
+      "id": 364
+    },
+    {
+      "type": "income",
+      "money": 500,
+      "date": "2026-12-22 08:59:38",
+      "useFor": "allowance",
+      "id": 365
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2026-12-23 04:21:35",
+      "useFor": "drinks",
+      "id": 366
+    },
+    {
+      "type": "pay",
+      "money": -279,
+      "date": "2026-12-27 06:19:45",
+      "useFor": "shopping",
+      "id": 367
+    },
+    {
+      "type": "income",
+      "money": 1000,
+      "date": "2026-12-29 15:36:36",
+      "useFor": "bonus",
+      "id": 368
+    },
+    {
+      "type": "pay",
+      "money": -10,
+      "date": "2026-02-18 14:03:11",
+      "useFor": "food",
+      "id": 369
+    },
+    {
+      "type": "income",
+      "money": 20,
+      "date": "2026-02-18 14:19:05",
+      "useFor": "parttime",
+      "id": 370
+    }
+  ]
+}

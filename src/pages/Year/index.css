@@ -1,0 +1,5 @@
+.year-page {
+  min-height: 100%;
+  background-color: var(--color-bg-page);
+  padding-bottom: var(--spacing-xl);
+}

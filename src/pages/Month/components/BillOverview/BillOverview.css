@@ -1,0 +1,62 @@
+.billOverview {
+  display: flex;
+  width: 100%;
+}
+
+.billOverview.horizontal {
+  justify-content: space-between;
+}
+
+/* ====== 大尺寸样式 (月份概览头部) ====== */
+.billOverview.large .overview-item {
+  text-align: center;
+  flex: 1;
+}
+
+/* 金额样式：加大字号，应用对应颜色 */
+.billOverview.large .money {
+  display: block;
+  font-size: var(--font-size-amount); /* 使用大字号 */
+  font-weight: var(--font-weight-bold); /* 加粗 */
+  margin-bottom: var(--spacing-xs);
+  transition: color 0.3s;
+}
+
+/* 类型标签样式 */
+.billOverview.large .type {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-tertiary);
+}
+
+/* 颜色控制 */
+.billOverview.large .expense .money { color: white; }
+.billOverview.large .income .money { color: white; }
+.billOverview.large .balance .money { color:#ffd1d1; }
+
+
+/* ====== 小尺寸样式 (日账单概览) ====== */
+.billOverview.small {
+  align-items: center;
+  gap: var(--spacing-xl);
+}
+
+.billOverview.small .overview-item {
+  display: flex;
+  align-items: baseline;
+}
+
+.billOverview.small .money {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+}
+
+.billOverview.small .type {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-tertiary);
+  margin-left: var(--spacing-xs);
+}
+
+/* 小尺寸颜色控制 */
+.billOverview.small .expense .money { color: var(--color-expense); }
+.billOverview.small .income .money { color: var(--color-income); }
+.billOverview.small .balance .money { color: var(--color-balance); }

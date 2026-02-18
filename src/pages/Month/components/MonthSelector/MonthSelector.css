@@ -1,0 +1,28 @@
+.monthSelector {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: var(--spacing-lg);
+  user-select: none;
+  padding: var(--spacing-xs) 0;
+}
+
+.monthSelector .text {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  color: white;
+}
+
+.monthSelector .arrow {
+  width: 0;
+  height: 0;
+  margin-left: var(--spacing-sm);
+  border-left: 0.05rem solid transparent;
+  border-right: 0.05rem solid transparent;
+  border-top: 0.06rem solid var(--color-text-tertiary);
+  transition: transform var(--transition-normal);
+}
+
+.monthSelector .arrow.expand {
+  transform: rotate(180deg);
+}

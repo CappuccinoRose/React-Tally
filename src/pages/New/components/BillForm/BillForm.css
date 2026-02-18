@@ -1,0 +1,105 @@
+/* 引入全局变量 */
+
+.new-bill-form {
+  background: var(--color-bg-card);
+  padding: var(--spacing-lg);
+  margin: var(--spacing-lg);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+}
+
+/* === 类型切换样式 === */
+.type-toggle {
+  display: flex;
+  justify-content: center; /* 修改点：让内部按钮居中 */
+  background: var(--color-bg-page);
+  border-radius: var(--radius-md);
+  padding: 4px;
+  margin-bottom: var(--spacing-xl);
+}
+
+.toggle-btn {
+  /* 移除 flex: 1，让按钮宽度自适应内容 */
+  width: auto; 
+  
+  padding: 10px 30px; /* 增加左右内边距，让按钮看起来更舒适 */
+  border: none;
+  background: transparent;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* 激活状态 */
+.toggle-btn.pay.active {
+  background: var(--color-bg-card);
+  color: var(--color-expense);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  font-weight: var(--font-weight-semibold);
+}
+
+.toggle-btn.income.active {
+  background: var(--color-bg-card);
+  color: var(--color-income);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  font-weight: var(--font-weight-semibold);
+}
+
+/* === 输入区域样式 === */
+.input-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: var(--spacing-sm);
+}
+
+.date-input {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  color: var(--color-text-primary);
+  font-size: var(--font-size-lg);
+}
+
+.date-icon {
+  font-size: 24px;
+  color: var(--color-text-secondary);
+}
+
+.date-text {
+  font-weight: var(--font-weight-medium);
+}
+
+/* === 金额输入样式 === */
+.amount-input {
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-end;
+}
+
+.currency {
+  font-size: var(--font-size-xl);
+  color: var(--color-text-primary);
+  font-weight: var(--font-weight-semibold);
+  margin-right: var(--spacing-xs);
+}
+
+.amount-field {
+  width: 80px;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 0.36rem;
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  text-align: right;
+  line-height: 1;
+}
+
+.amount-field::placeholder {
+  color: var(--color-text-placeholder);
+  font-weight: var(--font-weight-normal);
+}

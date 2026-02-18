@@ -1,0 +1,57 @@
+:root {
+  /* ========== 颜色系统 ========== */
+  /* 背景色 */
+  --color-bg-page: #f5f7fa;
+  --color-bg-card: #ffffff;
+  --color-bg-button:linear-gradient(135deg, #99a7e7 0%, #ac91c6 100%);
+
+  /* 文字色 */
+  --color-text-primary: #1a1a1a;
+  --color-text-secondary: #6b7280;
+  --color-text-tertiary: #9ca3af;
+  --color-text-placeholder: #d1d5db;
+
+  /* ========== 核心功能色 (重点优化) ========== */
+  --color-income: #10b981;      /* 收入  */
+  --color-expense: #f56c6c;     /* 支出 */
+  --color-balance: #409eff;     /* 结余  */
+
+  --color-border: #ebeef5;
+  --color-divider: #f2f3f5;
+
+  /* ========== 字体 ========== */
+  --font-size-xs: 0.11rem;
+  --font-size-sm: 0.12rem;
+  --font-size-base: 0.14rem;
+  --font-size-lg: 0.16rem;
+  --font-size-xl: 0.18rem;
+  --font-size-xxl: 0.24rem;
+  --font-size-amount: 0.22rem; 
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;    
+
+  /* ========== 间距 ========== */
+  --spacing-xs: 0.04rem;
+  --spacing-sm: 0.08rem;
+  --spacing-md: 0.12rem;
+  --spacing-lg: 0.16rem;
+  --spacing-xl: 0.20rem;
+
+  /* ========== 圆角 ========== */
+  --radius-sm: 0.04rem;
+  --radius-md: 0.08rem;
+  --radius-lg: 0.12rem;
+
+  /* ========== 阴影 (增强立体感) ========== */
+  --shadow-card: 0 0.02rem 0.08rem rgba(0, 0, 0, 0.06);
+  --shadow-card-hover: 0 0.04rem 0.12rem rgba(0, 0, 0, 0.1);
+
+  /* ========== 过渡 ========== */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.25s ease;
+  
+  --safe-area-inset-bottom: env(safe-area-inset-bottom);
+}

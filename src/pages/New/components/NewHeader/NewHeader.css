@@ -1,0 +1,23 @@
+.new-header {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  background-color: #f5f7fa;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  margin-right: 12px;
+  color: #666;
+}
+
+.title {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+}

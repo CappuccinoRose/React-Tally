@@ -1,0 +1,34 @@
+/* 主内容区域 */
+.layout-content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background-color: var(--color-bg-page);
+  -webkit-overflow-scrolling: touch;
+}
+
+/* 底部导航栏 */
+.layout-footer {
+  flex-shrink: 0;
+  width: 100%;
+  background-color: var(--color-bg-card);
+  padding-bottom: var(--safe-area-inset-bottom);
+  border-top: 0.01rem solid var(--color-border);
+}
+
+/* 覆盖 Antd-Mobile TabBar 样式 */
+.layout-footer .adm-tab-bar {
+  --adm-tab-bar-height: 0.5rem;
+  --adm-tab-bar-item-font-size: var(--font-size-xs);
+  --adm-tab-bar-item-active-color: var(--color-income);
+  --adm-tab-bar-item-color: var(--color-text-tertiary);
+  background-color: transparent;
+}
+
+.layout-footer .adm-tab-bar-item-icon {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.22rem;
+}

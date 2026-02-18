@@ -1,0 +1,30 @@
+@import "./variables.css";
+@import "./reset.css";
+
+/* ========== 全局布局容器 ========== */
+/* 移除 PC 端居中模拟效果，改为全宽自适应 */
+.app-wrapper {
+  height: 100%;
+  width: 100%;
+  background-color: var(--color-bg-page);
+}
+
+.app-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-bg-card); /* 内容区背景 */
+}
+
+/* ========== 工具类 ========== */
+.text-primary { color: var(--color-text-primary); }
+.text-secondary { color: var(--color-text-secondary); }
+.text-income { color: var(--color-income); }
+.text-expense { color: var(--color-expense); }
+
+.ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

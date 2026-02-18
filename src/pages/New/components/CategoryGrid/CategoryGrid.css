@@ -1,0 +1,80 @@
+.new-category-grid {
+  margin: 16px;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.category-group {
+  margin-bottom: 24px;
+}
+
+.group-title {
+  font-size: 16px;
+  margin-bottom: 12px;
+  color: #666;
+  font-weight: 500;
+}
+
+.category-items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.category-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  cursor: pointer;
+  transition: all 0.2s;
+  min-height: 80px;
+}
+
+.category-item:hover {
+  background: #f8f9fa;
+  border-color: #ddd;
+}
+
+/* === 选中状态优化 === */
+.category-item.selected {
+  transform: scale(1.02);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 支出选中：红色主题 */
+.category-item.selected.pay-type {
+  background: #fff0f0;
+  border-color: var(--color-expense);
+}
+
+.category-item.selected.pay-type .category-icon {
+  color: var(--color-expense);
+}
+
+/* 收入选中：绿色主题 */
+.category-item.selected.income-type {
+  background: #f0fff4;
+  border-color: var(--color-income);
+}
+
+.category-item.selected.income-type .category-icon {
+  color: var(--color-income);
+}
+
+.category-icon {
+  font-size: 24px;
+  margin-bottom: 6px;
+  color: #666;
+  transition: color 0.2s;
+}
+
+.category-name {
+  font-size: 14px;
+  color: #333;
+  text-align: center;
+}

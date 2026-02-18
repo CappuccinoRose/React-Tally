@@ -1,0 +1,114 @@
+.dailyBill {
+  background-color: var(--color-bg-card);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  margin-bottom: var(--spacing-md);
+  transition: box-shadow var(--transition-normal);
+}
+
+.dailyBill:active {
+  box-shadow: var(--shadow-card-hover);
+}
+
+.dailyBill .header {
+  padding: var(--spacing-lg);
+  cursor: pointer;
+  user-select: none;
+}
+
+.dateRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--spacing-sm); /* 缩小底部间距 */
+}
+
+.dateRow .date {
+  font-size: var(--font-size-lg); /* 日期加大 */
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+}
+
+.dateRow .arrow {
+  width: 0;
+  height: 0;
+  border-left: 0.06rem solid transparent;
+  border-right: 0.06rem solid transparent;
+  border-top: 0.06rem solid var(--color-text-tertiary);
+  transition: transform var(--transition-normal);
+}
+
+.dateRow .arrow.expand {
+  transform: rotate(180deg);
+}
+
+/* 展开详情区域 */
+.categoryDetail {
+  padding: 0 var(--spacing-lg) var(--spacing-lg);
+  border-top: 0.01rem solid var(--color-divider);
+  padding-top: var(--spacing-md);
+  /* 添加淡入动画感 */
+  animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.categoryItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-sm) 0;
+}
+
+.categoryItem:not(:last-child) {
+  border-bottom: 0.01rem solid var(--color-divider);
+}
+
+.categoryInfo {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.categoryName {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  font-weight: var(--font-weight-medium); 
+}
+
+.categoryCount {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-placeholder);
+  background-color: #f9f9f9;
+  padding: 0.01rem 0.04rem;
+  border-radius: 0.02rem;
+}
+
+.categoryMoney {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+}
+
+.categoryMoney.pay {
+  color: var(--color-expense);
+}
+
+.categoryMoney.income {
+  color: var(--color-income);
+}
+
+.categoryInfo {
+  display: flex;
+  align-items: center;
+  gap: 8px; 
+}
+
+.categoryIcon {
+  font-size: 20px; 
+  color: var(--primary-color); 
+}
+
