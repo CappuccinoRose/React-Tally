@@ -2589,6 +2589,20 @@
       "date": "2026-02-18 14:19:05",
       "useFor": "parttime",
       "id": 370
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2025-11-19 00:00:00",
+      "useFor": "dessert",
+      "id": 371
+    },
+    {
+      "type": "pay",
+      "money": -38,
+      "date": "2025-11-19 00:00:00",
+      "useFor": "dessert",
+      "id": 372
     }
   ]
 }

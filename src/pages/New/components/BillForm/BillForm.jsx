@@ -1,11 +1,30 @@
+import React, { useState } from "react";
+import { DatePicker } from "antd-mobile";
 import Icon from "@/components/Icon";
 import { MdOutlineCalendarMonth } from "react-icons/md";
 import "./BillForm.css";
 
+// 辅助函数：判断是否是今天
+const isToday = (date) => {
+  const today = new Date();
+  return date.getFullYear() === today.getFullYear() &&
+         date.getMonth() === today.getMonth() &&
+         date.getDate() === today.getDate();
+};
+
+// 辅助函数：格式化显示日期
+const formatDisplayDate = (date) => {
+  if (isToday(date)) return "今天";
+  return `${date.getMonth() + 1}月${date.getDate()}日`;
+};
+
 function BillForm({ type, setType, date, setDate, amount, setAmount }) {
+  // 控制日期选择器的显示状态
+  const [visible, setVisible] = useState(false);
+
   return (
     <div className="new-bill-form">
-      {/* 类型切换 - 修改为更美观的胶囊样式 */}
+      {/* 类型切换 */}
       <div className="type-toggle">
         <button
           className={`toggle-btn pay ${type === "pay" ? "active" : ""}`}
@@ -23,11 +42,13 @@ function BillForm({ type, setType, date, setDate, amount, setAmount }) {
 
       {/* 日期和金额输入 */}
       <div className="input-section">
-        <div className="date-input">
-          {/* 使用 Icon 组件替换表情 */}
+        {/* 点击区域触发日期选择器 */}
+        <div className="date-input" onClick={() => setVisible(true)}>
           <Icon icon={MdOutlineCalendarMonth} className="date-icon" />
-          <span className="date-text">{date}</span>
+          <span className="date-text">{formatDisplayDate(date)}</span>
         </div>
+        
+        {/* 金额输入 */}
         <div className="amount-input">
           <span className="currency">¥</span>
           <input
@@ -39,6 +60,19 @@ function BillForm({ type, setType, date, setDate, amount, setAmount }) {
           />
         </div>
       </div>
+
+      {/* 日期选择器组件 */}
+      <DatePicker
+        title="选择日期"
+        visible={visible}
+        onClose={() => setVisible(false)}
+        onConfirm={(val) => {
+          setDate(val);
+          setVisible(false);
+        }}
+        value={date}
+        max={new Date()} // 不允许选择未来时间
+      />
     </div>
   );
 }

@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
-// 使用 postBill 添加数据
 import { postBill } from "@/store/modules/billStore";
 import Header from "./components/NewHeader/NewHeader.jsx";
 import BillForm from "./components/BillForm/BillForm.jsx";
@@ -12,20 +11,20 @@ function New() {
   const dispatch = useDispatch();
 
   const [type, setType] = useState("pay");
-  const [date, setDate] = useState("今天");
+  const [date, setDate] = useState(new Date());
   const [amount, setAmount] = useState("");
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [toast, setToast] = useState(null);
 
-  // ... (getDateTimeString 和 toast 相关辅助函数保持不变) ...
-  const getDateTimeString = (dateVal) => {
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = String(now.getMonth() + 1).padStart(2, '0');
-    const day = String(now.getDate()).padStart(2, '0');
-    const hours = String(now.getHours()).padStart(2, '0');
-    const minutes = String(now.getMinutes()).padStart(2, '0');
-    const seconds = String(now.getSeconds()).padStart(2, '0');
+  const getDateTimeString = (dateObj) => {
+    if (!(dateObj instanceof Date)) return dateObj;
+    
+    const year = dateObj.getFullYear();
+    const month = String(dateObj.getMonth() + 1).padStart(2, '0');
+    const day = String(dateObj.getDate()).padStart(2, '0');
+    const hours = String(dateObj.getHours()).padStart(2, '0');
+    const minutes = String(dateObj.getMinutes()).padStart(2, '0');
+    const seconds = String(dateObj.getSeconds()).padStart(2, '0');
     return `${year}-${month}-${day} ${hours}:${minutes}:${seconds}`;
   };
 
@@ -57,14 +56,13 @@ function New() {
     };
 
     try {
-      // 核心修改：直接 dispatch 异步方法
-      await dispatch(postBill(billData)).unwrap();
+      // 直接使用 await，不需要 .unwrap()
+      await dispatch(postBill(billData));
       
       showToast("账单保存成功！", "success");
-      // 重置表单
       setAmount("");
       setSelectedCategory(null);
-      
+      setDate(new Date());
     } catch (error) {
       console.error("保存失败:", error);
       showToast("保存失败，请确认 json-server 已在 8000 端口启动！", "error");

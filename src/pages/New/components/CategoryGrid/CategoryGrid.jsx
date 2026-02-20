@@ -1,3 +1,4 @@
+import classNames from "classnames";
 import { billCategoryData } from "@/utils/billCategory";
 import Icon from "@/components/Icon";
 import { getIconComponent } from "@/utils/iconMap";
@@ -13,8 +14,11 @@ function CategoryGrid({ type, selectedCategory, setSelectedCategory }) {
             {group.list.map((item) => (
               <button
                 key={item.type}
-                // 动态添加 selected、pay-type 或 income-type 类名
-                className={`category-item ${selectedCategory === item.type ? "selected" : ""} ${type === "pay" ? "pay-type" : "income-type"}`}
+                className={classNames("category-item", {
+                  selected: selectedCategory === item.type,
+                  "pay-type": type === "pay",
+                  "income-type": type === "income"
+                })}
                 onClick={() => setSelectedCategory(item.type)}
               >
                 <Icon icon={getIconComponent(item.type)} className="category-icon" />
