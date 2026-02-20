@@ -1,10 +1,11 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
-import { getBillList } from "@/store/modules/billStore";
+// 使用 postBill 添加数据
+import { postBill } from "@/store/modules/billStore";
 import Header from "./components/NewHeader/NewHeader.jsx";
 import BillForm from "./components/BillForm/BillForm.jsx";
 import CategoryGrid from "./components/CategoryGrid/CategoryGrid.jsx";
-import Toast from "@/components/Toast/Toast.jsx"; // 引入 Toast 组件
+import Toast from "@/components/Toast/Toast.jsx";
 import "./index.css";
 
 function New() {
@@ -14,8 +15,9 @@ function New() {
   const [date, setDate] = useState("今天");
   const [amount, setAmount] = useState("");
   const [selectedCategory, setSelectedCategory] = useState(null);
-  const [toast, setToast] = useState(null); // 管理 Toast 显示
+  const [toast, setToast] = useState(null);
 
+  // ... (getDateTimeString 和 toast 相关辅助函数保持不变) ...
   const getDateTimeString = (dateVal) => {
     const now = new Date();
     const year = now.getFullYear();
@@ -55,26 +57,14 @@ function New() {
     };
 
     try {
-      const response = await fetch('http://localhost:8000/ka', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(billData),
-      });
-
-      if (response.ok) {
-        showToast("账单保存成功！", "success");
-
-        // 保存成功后，触发 Redux Action 重新获取列表
-        dispatch(getBillList());
-
-        // 重置表单
-        setAmount("");
-        setSelectedCategory(null);
-      } else {
-        throw new Error('服务器响应错误');
-      }
+      // 核心修改：直接 dispatch 异步方法
+      await dispatch(postBill(billData)).unwrap();
+      
+      showToast("账单保存成功！", "success");
+      // 重置表单
+      setAmount("");
+      setSelectedCategory(null);
+      
     } catch (error) {
       console.error("保存失败:", error);
       showToast("保存失败，请确认 json-server 已在 8000 端口启动！", "error");
@@ -103,7 +93,6 @@ function New() {
         </button>
       </div>
 
-      {/* Toast 渲染在这里 */}
       {toast && (
         <Toast
           message={toast.message}
